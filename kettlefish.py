@@ -42,6 +42,7 @@ REMYSPEAK.update({
     "loops": "current tasks",
     "motherfucker(s)?": "fellow\\1",
     "fella(s)?": "fellow\\1",
+    "inter(nets|web(s)?)": "internet",
     "biz": "five",
     "hunny": "a hundred",
     "hundo": "a hundred",
