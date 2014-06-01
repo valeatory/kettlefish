@@ -74,6 +74,11 @@ REMYSPEAK.update({
     "qual": "quality",
     "holy business": "this situation is getting out of hand",
     "(ob|ab)sanity": "absurd insanity",
+    "i'm": "I am",
+    "i've": "I have",
+    "i'll": "I will",
+    "i'd": "I'd",
+    "i": "I",
 })
 
 def translate_remyspeak(text):
