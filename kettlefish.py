@@ -41,6 +41,7 @@ REMYSPEAK.update({
     "loop": "task",
     "loops": "current tasks",
     "motherfucker": "fellow",
+    "fella(s)?": "fellow\\1",
     "biz": "five",
     "hunny": "a hundred",
     "hundo": "a hundred",
