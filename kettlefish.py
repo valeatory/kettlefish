@@ -44,6 +44,7 @@ REMYSPEAK.update({
     "fella(s)?": "fellow\\1",
     "inter(nets|web(s)?)": "internet",
     "biz": "five",
+    "deps": "dependencies",
     "hunny": "a hundred",
     "hundo": "a hundred",
     "step out": "smoke",
