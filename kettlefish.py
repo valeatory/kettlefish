@@ -40,7 +40,7 @@ REMYSPEAK.update({
     "cycles": "time available to spend on work",
     "loop": "task",
     "loops": "current tasks",
-    "motherfucker": "fellow",
+    "motherfucker(s)?": "fellow\\1",
     "fella(s)?": "fellow\\1",
     "biz": "five",
     "hunny": "a hundred",
